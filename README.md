@@ -37,7 +37,7 @@ pip install -r requirements.txt
 ### 3️⃣ Run the application:
 
 ```bash
-python customer_sugmentation.py
+python customer_segmentation.py
 ```
 
 - The application will generate customer segmentation insights and display visualizations.
